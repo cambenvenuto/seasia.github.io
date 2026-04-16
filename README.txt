@@ -11,20 +11,23 @@ How to use
    - your own website
 
 2. After upload, each page will have a public URL such as:
-   - https://yourdomain.com/whatsapp.html
-   - https://yourdomain.com/grab.html
-   - https://yourdomain.com/bolt.html
+   - https://yourdomain.com/line.html
+   - https://yourdomain.com/messenger.html
+   - https://yourdomain.com/zalo.html
 
 3. Turn each public page URL into a QR code.
 
 Included app pages
-- WhatsApp
-- Grab
-- Bolt
-- 12Go Asia
-- Google Maps
-- Google Translate
-- Wise
+- Line
+- Messenger
+- Zalo
+- Gojek
+- Klook
+- Maps.me
+- Remitly
+- Expedia
+- Booking.com
+- Agoda
 
 Notes
 - These are option 2 landing pages: one extra tap after scanning.
