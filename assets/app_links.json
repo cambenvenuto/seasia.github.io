@@ -1,0 +1,82 @@
+{
+  "line": {
+    "name": "Line",
+    "page": "line.html",
+    "ios": "https://apps.apple.com/us/app/line/id443904275",
+    "android": "https://play.google.com/store/apps/details?id=jp.naver.line.android",
+    "logo_file": "assets/line.png",
+    "matched_source_file": "line.png"
+  },
+  "messenger": {
+    "name": "Messenger",
+    "page": "messenger.html",
+    "ios": "https://apps.apple.com/us/app/messenger/id454638411",
+    "android": "https://play.google.com/store/apps/details?id=com.facebook.orca",
+    "logo_file": "assets/messenger.png",
+    "matched_source_file": "messenger.png"
+  },
+  "zalo": {
+    "name": "Zalo",
+    "page": "zalo.html",
+    "ios": "https://apps.apple.com/us/app/zalo/id579523206",
+    "android": "https://play.google.com/store/apps/details?id=com.zing.zalo",
+    "logo_file": "assets/zalo.png",
+    "matched_source_file": "zalo.png"
+  },
+  "gojek": {
+    "name": "Gojek",
+    "page": "gojek.html",
+    "ios": "https://apps.apple.com/us/app/gojek/id944875099",
+    "android": "https://play.google.com/store/apps/details?id=com.gojek.app",
+    "logo_file": "assets/gojek.png",
+    "matched_source_file": "gojek.png"
+  },
+  "klook": {
+    "name": "Klook",
+    "page": "klook.html",
+    "ios": "https://apps.apple.com/us/app/klook-travel-activities/id961850126",
+    "android": "https://play.google.com/store/apps/details?id=com.klook",
+    "logo_file": "assets/klook.png",
+    "matched_source_file": "klook.png"
+  },
+  "mapsme": {
+    "name": "Maps.me",
+    "page": "mapsme.html",
+    "ios": "https://apps.apple.com/us/app/maps-me-offline-maps-gps-nav/id510623322",
+    "android": "https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro",
+    "logo_file": "assets/mapsme.png",
+    "matched_source_file": "maps.png"
+  },
+  "remitly": {
+    "name": "Remitly",
+    "page": "remitly.html",
+    "ios": "https://apps.apple.com/us/app/remitly-global-money-transfer/id674258465",
+    "android": "https://play.google.com/store/apps/details?id=com.remitly.androidapp",
+    "logo_file": "assets/remitly.png",
+    "matched_source_file": "remitly.png"
+  },
+  "expedia": {
+    "name": "Expedia",
+    "page": "expedia.html",
+    "ios": "https://apps.apple.com/us/app/expedia-hotels-flights-cars/id427916203",
+    "android": "https://play.google.com/store/apps/details?id=com.expedia.bookings",
+    "logo_file": "assets/expedia.png",
+    "matched_source_file": "expedia.png"
+  },
+  "booking": {
+    "name": "Booking.com",
+    "page": "booking.html",
+    "ios": "https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839",
+    "android": "https://play.google.com/store/apps/details?id=com.booking",
+    "logo_file": "assets/booking.png",
+    "matched_source_file": "booking.png"
+  },
+  "agoda": {
+    "name": "Agoda",
+    "page": "agoda.html",
+    "ios": "https://apps.apple.com/us/app/agoda-cheap-flights-hotels/id440676901",
+    "android": "https://play.google.com/store/apps/details?id=com.agoda.mobile.consumer",
+    "logo_file": "assets/agoda.png",
+    "matched_source_file": "agoda.png"
+  }
+}
