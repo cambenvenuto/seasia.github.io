@@ -1,0 +1,37 @@
+{
+  "WhatsApp": {
+    "page": "whatsapp.html",
+    "ios": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997",
+    "android": "https://play.google.com/store/apps/details?id=com.whatsapp"
+  },
+  "Grab": {
+    "page": "grab.html",
+    "ios": "https://apps.apple.com/sg/app/grab-taxi-ride-food-delivery/id647268330",
+    "android": "https://play.google.com/store/apps/details?id=com.grabtaxi.passenger"
+  },
+  "Bolt": {
+    "page": "bolt.html",
+    "ios": "https://apps.apple.com/us/app/bolt-request-a-ride/id675033630",
+    "android": "https://play.google.com/store/apps/details?id=ee.mtakso.client"
+  },
+  "12Go Asia": {
+    "page": "12go-asia.html",
+    "ios": "https://apps.apple.com/us/app/12go-train-bus-ferry-flight/id1492054704",
+    "android": "https://play.google.com/store/apps/details?id=co.go12.ticketapp"
+  },
+  "Google Maps": {
+    "page": "google-maps.html",
+    "ios": "https://apps.apple.com/us/app/google-maps/id585027354",
+    "android": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps"
+  },
+  "Google Translate": {
+    "page": "google-translate.html",
+    "ios": "https://apps.apple.com/us/app/google-translate/id414706506",
+    "android": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate"
+  },
+  "Wise": {
+    "page": "wise.html",
+    "ios": "https://apps.apple.com/us/app/wise-global-money/id612261027",
+    "android": "https://play.google.com/store/apps/details?id=com.transferwise.android"
+  }
+}
