@@ -1,16 +1,47 @@
-body{
-  font-family: Arial, sans-serif;
-  background: #f6f7fb;
-  margin: 0;
-  min-height: 100vh;
-  padding: 40px 20px;
+* {
+  box-sizing: border-box;
 }
 
-.card{
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f6f7fb;
+  min-height: 100vh;
+  padding: 30px 20px;
+}
+
+.card {
   background: white;
   padding: 30px;
   border-radius: 20px;
   text-align: center;
   width: 300px;
   margin: 0 auto;
+}
+
+.logo-wrap {
+  margin-bottom: 15px;
+}
+
+img {
+  max-width: 100px;
+}
+
+a,
+.button {
+  display: block;
+  margin: 10px 0;
+  padding: 12px;
+  background: black;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.secondary {
+  background: #444;
 }
